@@ -1,14 +1,14 @@
 # CS320\_discussion!
 
 Feb 20 discussion!
-Line 3!
-Line 4!
-Line 5!
-Line 6!
-Line 7!
-Line 8!
-Line 9!
-Line 10!
-Line 11!
-Line 12!
+Line 3! conflict practice
+Line 4! conflict practice
+Line 5! conflict practice
+Line 6! conflict practice
+Line 7! conflict practice
+Line 8! conflict practice
+Line 9! conflict practice
+Line 10! conflict practice
+Line 11! conflict practice
+Line 12! conflict practice
 
