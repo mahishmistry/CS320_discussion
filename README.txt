@@ -1,2 +1,0 @@
-Dedeep Surampudi
-Haluk Yuzukirmizi
