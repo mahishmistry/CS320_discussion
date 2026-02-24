@@ -13,7 +13,7 @@ Line 11! conflict practasdfice
 Line 12! conflict pracasdftice
 WALUIGI TIME
 Feb 20 discussion!
-Line 3!
+Line 3
 Line 4!
 Line 5!
 whatt
