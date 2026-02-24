@@ -12,4 +12,15 @@ Line 10! conflict pracdsftice
 Line 11! conflict practasdfice
 Line 12! conflict pracasdftice
 WALUIGI TIME
+Feb 20 discussion!
+Line 3!
+Line 4!
+Line 5!
+whatt
+Line 7!
+Line 8!
+Line 9!
+Line 10!
+Line 11!
+Line 12!
 
