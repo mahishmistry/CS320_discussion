@@ -1,7 +1,7 @@
 # CS320\_discussion!
 
 Feb 20 discussion!
-Line 3!
+Line 3
 Line 4!
 Line 5!
 Line 6!
